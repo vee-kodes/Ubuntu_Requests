@@ -112,4 +112,3 @@ if __name__ == "__main__":
 
 ### 💭 Remember   
 *"A person is a person through other persons."* – Ubuntu philosophy. Your program connects you to the work of others across the web.  
-# Ubuntu_Requests
